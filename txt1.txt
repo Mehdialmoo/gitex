@@ -2,3 +2,5 @@ apple
 orange
 peach
 banana
+pear
+grapes
